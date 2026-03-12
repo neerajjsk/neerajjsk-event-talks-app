@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of JavaScript",
+    "speakers": ["Jane Doe"],
+    "category": ["JavaScript", "Web Development"],
+    "duration": 60,
+    "description": "A deep dive into the upcoming features of JavaScript and how they will shape the future of web development."
+  },
+  {
+    "title": "Building Scalable APIs with Node.js",
+    "speakers": ["John Smith"],
+    "category": ["Node.js", "APIs", "Backend"],
+    "duration": 60,
+    "description": "Learn how to design and build APIs that can handle millions of requests."
+  },
+  {
+    "title": "Frontend Frameworks: A Comparative Analysis",
+    "speakers": ["Emily White", "Mike Black"],
+    "category": ["Frontend", "React", "Vue"],
+    "duration": 60,
+    "description": "A comprehensive comparison of the most popular frontend frameworks."
+  },
+  {
+    "title": "The Power of Serverless",
+    "speakers": ["Chris Green"],
+    "category": ["Serverless", "Cloud", "Architecture"],
+    "duration": 60,
+    "description": "An introduction to serverless computing and how it can revolutionize your workflow."
+  },
+  {
+    "title": "Mastering CSS Grid and Flexbox",
+    "speakers": ["Sarah Brown"],
+    "category": ["CSS", "Frontend", "Design"],
+    "duration": 60,
+    "description": "Take your layout skills to the next level with CSS Grid and Flexbox."
+  },
+  {
+    "title": "Introduction to Machine Learning with Python",
+    "speakers": ["David Wilson", "Patricia Garcia"],
+    "category": ["Python", "Machine Learning", "Data Science"],
+    "duration": 60,
+    "description": "A beginner-friendly introduction to the exciting world of machine learning."
+  }
+]
